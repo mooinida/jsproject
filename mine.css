@@ -1,0 +1,502 @@
+h1.travel{
+    position: absolute;
+    left:45%;
+}
+
+
+img.plane {
+    position:absolute;
+    animation: slideAnimation 10s infinite;
+    width: 50px;
+    height: 50px;
+    opacity: 0.5;
+    top: 100px;
+}
+
+@keyframes slideAnimation {
+    0% { left: 0; }
+    25% { left: calc(100% - 50px); }
+    50% { left: calc(100% - 50px); }
+    75% { left: 0; }
+    100% { left: 0; }
+}
+
+img.cambodia{
+    position:absolute;
+    animation: camation 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:25.9%;
+}
+
+@keyframes camation {
+    0% { left: 57.1%; }
+    25% { left:94.8%; }
+    50% { left:94.8%; }
+    75% { left: 57.1%; }
+    100% { left: 57.1%; }
+    
+}
+
+img.cambodia1{
+    position:absolute;
+    animation: camation1 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:40.9%;
+}
+
+@keyframes camation1 {
+    0% { left: 2.4%; }
+    25% { left:26.3%; }
+    50% { left:26.3%; }
+    75% { left: 2.4%; }
+    100% { left: 2.4%; }
+    
+}
+
+img.taiwan1{
+    position:absolute;
+    animation: taiation1 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:40.9%;
+}
+
+@keyframes taiation1 {
+    0% { left: 29.7%; }
+    25% { left: 94.8%; }
+    50% { left: 94.8%; }
+    75% { left: 29.7%; }
+    100% { left: 29.7%; }
+    
+}
+
+img.taiwan2{
+    position:absolute;
+    animation: taiation2 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:55.9%;
+}
+
+@keyframes taiation2 {
+    0% { left: 2.4%; }
+    25% { left: 53.8%; }
+    50% { left: 53.8%; }
+    75% { left: 2.4%; }
+    100% { left: 2.4%; }
+    
+}
+
+img.mian1{
+    position:absolute;
+    animation: mimation 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:55.9%;
+}
+
+@keyframes mimation {
+    0% { left: 57.1%; }
+    25% { left:94.8%; }
+    50% { left:94.8%; }
+    75% { left: 57.1%; }
+    100% { left: 57.1%; }
+    
+}
+
+img.mian2{
+    position:absolute;
+    animation: mimation2 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:70.9%;
+}
+
+@keyframes mimation2 {
+    0% { left: 2.4%; }
+    25% { left:81.1%; }
+    50% { left:81.1%; }
+    75% { left: 2.4%; }
+    100% { left: 2.4%; }
+    
+}
+img.raos{
+    position:absolute;
+    animation: ramation 10s infinite;
+    width:50px;
+    height:50px;
+    opacity:0.5;
+    top:85.9%;
+}
+
+@keyframes ramation {
+    0% { left: 2.4%; }
+    25% { left:67.5%; }
+    50% { left:67.5%; }
+    75% { left: 2.4%; }
+    100% { left: 2.4%; }
+    
+}
+
+#MyDiv{
+    position : relative;
+    width: 100%;
+    height: 100%;
+  }
+button.btn1 {
+    position: absolute;
+    top: 21.4%;
+    left : 57.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    /*background-color: transparent;*/
+    font-size:x-large;
+}
+button.btn2 {
+    position: absolute;
+    top: 21.4%;
+    left : 70.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.btn3 {
+    position: absolute;
+    top: 21.4%;
+    left : 84.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.btn4 {
+    position: absolute;
+    top: 36.4%;
+    left : 3.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.btn5 {
+    position: absolute;
+    top: 36.4%;
+    left : 16.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan1 {
+    position: absolute;
+    top: 36.4%;
+    left : 30.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan2 {
+    position: absolute;
+    top: 36.4%;
+    left : 43.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan3 {
+    position: absolute;
+    top: 36.4%;
+    left : 57.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan4 {
+    position: absolute;
+    top: 36.4%;
+    left : 70.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan5 {
+    position: absolute;
+    top: 36.4%;
+    left :84.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan6 {
+    position: absolute;
+    top: 51.4%;
+    left :3.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan7 {
+    position: absolute;
+    top: 51.4%;
+    left :16.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan8 {
+    position: absolute;
+    top: 51.4%;
+    left :30.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.taiwan9 {
+    position: absolute;
+    top: 51.4%;
+    left :43.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian1{
+    position: absolute;
+    top: 51.4%;
+    left :57.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian2{
+    position: absolute;
+    top: 51.4%;
+    left :70.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian3{
+    position: absolute;
+    top: 51.4%;
+    left :84.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian4 {
+    position: absolute;
+    top: 66.4%;
+    left : 3.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian5 {
+    position: absolute;
+    top:66.4%;
+    left :16.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian6 {
+    position: absolute;
+    top: 66.4%;
+    left :30.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian7 {
+    position: absolute;
+    top: 66.4%;
+    left :43.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian8 {
+    position: absolute;
+    top: 66.4%;
+    left :57.2%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.mian9 {
+    position: absolute;
+    top: 66.4%;
+    left :70.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.rest {
+    position: absolute;
+    top: 66.4%;
+    left :84.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.raos1 {
+    position: absolute;
+    top: 66.4%;
+    left :84.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.raos1 {
+    position: absolute;
+    top: 81.4%;
+    left :3.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.raos2 {
+    position: absolute;
+    top: 81.4%;
+    left :16.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.raos3 {
+    position: absolute;
+    top: 81.4%;
+    left :30.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.raos4 {
+    position: absolute;
+    top: 81.4%;
+    left :43.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.raos5 {
+    position: absolute;
+    top: 81.4%;
+    left :57.1%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+button.Korea {
+    position: absolute;
+    top: 81.4%;
+    left :70.6%; 
+    width:13.5%;
+    height:15%;
+    cursor:alias;
+    border-style: hidden;
+    background-color: transparent;
+    font-size:x-large;
+}
+img.music{
+    position:absolute;
+    width:80px;
+    height:80px;
+    top:0px;
+    left:56%;
+}
