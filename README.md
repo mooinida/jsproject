@@ -1,2 +1,3 @@
 JAVASCRIPTを使って作った私の旅行計画表。
-![image](https://github.com/user-attachments/assets/0a5aa67e-5367-44c5-8055-ffab65948eef)
+
+![bandicam2024-12-3113-41-24-462-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e044f6a6-3f90-45e4-9e30-274b7f28273b)
